@@ -1,0 +1,220 @@
+City #1		City #2		Miles Between
+Reno		SanFrancisco	218
+		SaltLakeCity	518
+		Seattle		704
+		LasVegas	443
+SanFrancisco	SaltLakeCity	736(Through Reno)
+		Seattle		808
+		LasVegas	569
+SaltLakeCity	Seattle		829
+		LasVegas	421
+Seattle		LasVegas	1115
+
+Reno to San Francisco
+San Francisco to Salt Lake City
+Salt Lake City to Seatlle
+Seatlle to Las Vegas
+Las Vegas to Reno
+
+Total Miles = 3341
+**********************
+Reno to San Francisco
+San Francisco to Salt Lake City
+Salt Lake City to Las Vegas
+Las Vegas to Seatlle
+Seatlle to Reno
+
+Total Miles = 3194
+**********************
+Reno to San Francisco
+San Francisco to Seatlle
+Seatlle to Salt Lake City
+Salt Lake City to Las Vegas
+Las Vegas to Reno
+
+Total Miles = 2719
+**********************
+Reno to San Francisco
+San Francisco to Seatlle
+Seatlle to Las Vegas
+Las Vegas to Salt Lake City
+Salt Lake City to Reno
+
+Total Miles = 3080
+**********************
+Reno to San Francisco
+San Francisco to Las Vegas
+Las Vegas to Salt Lake City
+Salt Lake City to Seatlle
+Seatlle to Reno
+
+Total Miles = 2741
+**********************
+Reno to San Francisco
+San Francisco to Las Vegas
+Las Vegas to Seatlle
+Seatlle to Salt Lake City
+Salt Lake City to Reno
+
+Total Miles = 3249
+**********************
+Reno to Salt Lake City
+Salt Lake City to San Francisco
+San Francisco to Seatlle
+Seatlle to Las Vegas
+Las Vegas to Reno
+
+Total Miles = 3620
+**********************
+Reno to Salt Lake City
+Salt Lake City to San Francisco
+San Francisco to Las Vegas
+Las Vegas to Seatlle
+Seatlle to Reno
+
+Total Miles = 3642
+**********************
+Reno to Salt Lake City
+Salt Lake City to Seatlle
+Seatlle to San Francisco
+San Francisco to Las Vegas
+Las Vegas to Reno
+
+Total Miles = 3167
+**********************
+Reno to Salt Lake City
+Salt Lake City to Seatlle
+Seatlle to Las Vegas
+Las Vegas to San Francisco
+San Francisco to Reno
+
+Total Miles = 3249
+**********************
+Reno to Salt Lake City
+Salt Lake City to Las Vegas
+Las Vegas to San Francisco
+San Francisco to Seatlle
+Seatlle to Reno
+
+Total Miles = 3020
+**********************
+Reno to Salt Lake City
+Salt Lake City to Las Vegas
+Las Vegas to Seatlle
+Seatlle to San Francisco
+San Francisco to Reno
+
+Total Miles = 3080
+**********************
+Reno to Seatlle
+Seatlle to San Francisco
+San Francisco to Salt Lake City
+Salt Lake City to Las Vegas
+Las Vegas to Reno
+
+Total Miles = 3112
+**********************
+Reno to Seatlle
+Seatlle to San Francisco
+San Francisco to Las Vegas
+Las Vegas to Salt Lake City
+Salt Lake City to Reno
+
+Total Miles = 3020
+**********************
+Reno to Seatlle
+Seatlle to Salt Lake City
+Salt Lake City to San Francisco
+San Francisco to Las Vegas
+Las Vegas to Reno
+
+Total Miles = 3281
+**********************
+Reno to Seatlle
+Seatlle to Salt Lake City
+Salt Lake City to Las Vegas
+Las Vegas to San Francisco
+San Francisco to Reno
+
+Total Miles = 2741
+**********************
+Reno to Seatlle
+Seatlle to Las Vegas
+Las Vegas to San Francisco
+San Francisco to Salt Lake City
+Salt Lake City to Reno
+
+Total Miles = 3642
+**********************
+Reno to Seatlle
+Seatlle to Las Vegas
+Las Vegas to Salt Lake City
+Salt Lake City to San Francisco
+San Francisco to Reno
+
+Total Miles = 3194
+**********************
+Reno to Las Vegas
+Las Vegas to San Francisco
+San Francisco to Salt Lake City
+Salt Lake City to Seatlle
+Seatlle to Reno
+
+Total Miles = 3281
+**********************
+Reno to Las Vegas
+Las Vegas to San Francisco
+San Francisco to Seatlle
+Seatlle to Salt Lake City
+Salt Lake City to Reno
+
+Total Miles = 3167
+**********************
+Reno to Las Vegas
+Las Vegas to Salt Lake City
+Salt Lake City to San Francisco
+San Francisco to Seatlle
+Seatlle to Reno
+
+Total Miles = 3112
+**********************
+Reno to Las Vegas
+Las Vegas to Salt Lake City
+Salt Lake City to Seatlle
+Seatlle to San Francisco
+San Francisco to Reno
+
+Total Miles = 2719
+**********************
+Reno to Las Vegas
+Las Vegas to Seatlle
+Seatlle to San Francisco
+San Francisco to Salt Lake City
+Salt Lake City to Reno
+
+Total Miles = 3620
+**********************
+Reno to Las Vegas
+Las Vegas to Seatlle
+Seatlle to Salt Lake City
+Salt Lake City to San Francisco
+San Francisco to Reno
+
+Total Miles = 3341
+**********************
+
+The shortest path is 2719 miles{
+Reno to Las Vegas
+Las Vegas to Salt Lake City
+Salt Lake City to Seatlle
+Seatlle to San Fransico
+San Francisco to Reno
+**********OR**********
+Reno to San Francisco
+San Fransico to Seatlle
+Seatlle to Salt Lake City
+Salt Lake City to Las Vegas
+Las Vegas to Reno
+}
+
+link: https://github.com/matthewfs/CS302---Final-Project
