@@ -256,8 +256,8 @@ void cityName(int num){
 }
 
 /*----------------------------------------------------------------------------------------------
-Function name: cityName
-Purpose:  utilizes switch to convert current iteration to names of the city
+Function name: price
+Purpose:  converts total length of the path into the total price of the trip
 Returns: nothing
 Notes: 
 -------------------------------------------------------------------------------------------*/
