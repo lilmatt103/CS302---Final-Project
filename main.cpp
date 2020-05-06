@@ -20,12 +20,14 @@
     Matthew Santos 5/4/2020   Change to main function, slight edits to bruteforce and pathLength
                               Added functionality with display and cityName
                               Exported data to .txt
+			      Added conversion for miles to total cost
 ----------------------------------------------------------------------------------------------*/
 
 #include <iostream>
 #include <utility>
 #include <string>
 #include <algorithm>
+#include <iomanip>
 #include <boost/graph/graph_traits.hpp>
 #include <boost/graph/adjacency_list.hpp>
 #include <boost/graph/dijkstra_shortest_paths.hpp> 
@@ -45,6 +47,7 @@ int getPathLength(char path[], const int SIZE, Graph g);
 void getPath(char [],int index);
 void display(int num1, int num2);
 void cityName(int num);
+void price(int num);
 
 /*----------------------------------------------------------------------------------------------
 Function name: main
@@ -76,7 +79,6 @@ int main(int, char*[])
 		  << "Seattle\t\tLasVegas\t1115\n\n";
 //Gets the path and the length trough a brute force method
 	bruteForce(g);
-	
 
 }
 
@@ -113,7 +115,8 @@ void bruteForce(Graph g)
 
     }
 	
-    std::cout << std::endl <<"The shortest path is " << shortestLength << " miles" << std::endl;
+    std::cout << "The shortest path is " << shortestLength << " miles" << std::endl;
+    price(shortestLength);
 }
 
 /*----------------------------------------------------------------------------------------------
@@ -171,7 +174,8 @@ int getPathLength(char path[], const int SIZE, Graph g)
 	}
 	std::cout << std::endl;
     }
-	std::cout << "Total Miles = " << pathLength << std::endl << "**********************" <<std::endl;
+	std::cout << "Total Miles = " << pathLength << std::endl;
+	price(pathLength);
     return pathLength;
 }
 
@@ -249,4 +253,21 @@ void cityName(int num){
 		}
 		default:{ std::cout << "error"; }
 	}
+}
+
+/*----------------------------------------------------------------------------------------------
+Function name: cityName
+Purpose:  utilizes switch to convert current iteration to names of the city
+Returns: nothing
+Notes: 
+-------------------------------------------------------------------------------------------*/
+void price(int num){
+	//40 miles per gallon
+	float mpg = 40;
+	//$2.311 per gallon
+	float ppg = 2.311;
+	float price;
+	price = (num/mpg)*ppg;
+	std::cout << "Total price @40 gallons per mile, $2.311 per gallon = $" << std::setprecision(5) 
+		  << price << std::endl << "**********************" << std::endl;
 }
