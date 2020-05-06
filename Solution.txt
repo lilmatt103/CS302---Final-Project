@@ -17,6 +17,7 @@ Seatlle to Las Vegas
 Las Vegas to Reno
 
 Total Miles = 3341
+Total price @40 gallons per mile, $2.311 per gallon = $193.03
 **********************
 Reno to San Francisco
 San Francisco to Salt Lake City
@@ -25,6 +26,7 @@ Las Vegas to Seatlle
 Seatlle to Reno
 
 Total Miles = 3194
+Total price @40 gallons per mile, $2.311 per gallon = $184.53
 **********************
 Reno to San Francisco
 San Francisco to Seatlle
@@ -33,6 +35,7 @@ Salt Lake City to Las Vegas
 Las Vegas to Reno
 
 Total Miles = 2719
+Total price @40 gallons per mile, $2.311 per gallon = $157.09
 **********************
 Reno to San Francisco
 San Francisco to Seatlle
@@ -41,6 +44,7 @@ Las Vegas to Salt Lake City
 Salt Lake City to Reno
 
 Total Miles = 3080
+Total price @40 gallons per mile, $2.311 per gallon = $177.95
 **********************
 Reno to San Francisco
 San Francisco to Las Vegas
@@ -49,6 +53,7 @@ Salt Lake City to Seatlle
 Seatlle to Reno
 
 Total Miles = 2741
+Total price @40 gallons per mile, $2.311 per gallon = $158.36
 **********************
 Reno to San Francisco
 San Francisco to Las Vegas
@@ -57,6 +62,7 @@ Seatlle to Salt Lake City
 Salt Lake City to Reno
 
 Total Miles = 3249
+Total price @40 gallons per mile, $2.311 per gallon = $187.71
 **********************
 Reno to Salt Lake City
 Salt Lake City to San Francisco
@@ -65,6 +71,7 @@ Seatlle to Las Vegas
 Las Vegas to Reno
 
 Total Miles = 3620
+Total price @40 gallons per mile, $2.311 per gallon = $209.15
 **********************
 Reno to Salt Lake City
 Salt Lake City to San Francisco
@@ -73,6 +80,7 @@ Las Vegas to Seatlle
 Seatlle to Reno
 
 Total Miles = 3642
+Total price @40 gallons per mile, $2.311 per gallon = $210.42
 **********************
 Reno to Salt Lake City
 Salt Lake City to Seatlle
@@ -81,6 +89,7 @@ San Francisco to Las Vegas
 Las Vegas to Reno
 
 Total Miles = 3167
+Total price @40 gallons per mile, $2.311 per gallon = $182.97
 **********************
 Reno to Salt Lake City
 Salt Lake City to Seatlle
@@ -89,6 +98,7 @@ Las Vegas to San Francisco
 San Francisco to Reno
 
 Total Miles = 3249
+Total price @40 gallons per mile, $2.311 per gallon = $187.71
 **********************
 Reno to Salt Lake City
 Salt Lake City to Las Vegas
@@ -97,6 +107,7 @@ San Francisco to Seatlle
 Seatlle to Reno
 
 Total Miles = 3020
+Total price @40 gallons per mile, $2.311 per gallon = $174.48
 **********************
 Reno to Salt Lake City
 Salt Lake City to Las Vegas
@@ -105,6 +116,7 @@ Seatlle to San Francisco
 San Francisco to Reno
 
 Total Miles = 3080
+Total price @40 gallons per mile, $2.311 per gallon = $177.95
 **********************
 Reno to Seatlle
 Seatlle to San Francisco
@@ -113,6 +125,7 @@ Salt Lake City to Las Vegas
 Las Vegas to Reno
 
 Total Miles = 3112
+Total price @40 gallons per mile, $2.311 per gallon = $179.8
 **********************
 Reno to Seatlle
 Seatlle to San Francisco
@@ -121,6 +134,7 @@ Las Vegas to Salt Lake City
 Salt Lake City to Reno
 
 Total Miles = 3020
+Total price @40 gallons per mile, $2.311 per gallon = $174.48
 **********************
 Reno to Seatlle
 Seatlle to Salt Lake City
@@ -129,6 +143,7 @@ San Francisco to Las Vegas
 Las Vegas to Reno
 
 Total Miles = 3281
+Total price @40 gallons per mile, $2.311 per gallon = $189.56
 **********************
 Reno to Seatlle
 Seatlle to Salt Lake City
@@ -137,6 +152,7 @@ Las Vegas to San Francisco
 San Francisco to Reno
 
 Total Miles = 2741
+Total price @40 gallons per mile, $2.311 per gallon = $158.36
 **********************
 Reno to Seatlle
 Seatlle to Las Vegas
@@ -145,6 +161,7 @@ San Francisco to Salt Lake City
 Salt Lake City to Reno
 
 Total Miles = 3642
+Total price @40 gallons per mile, $2.311 per gallon = $210.42
 **********************
 Reno to Seatlle
 Seatlle to Las Vegas
@@ -153,6 +170,7 @@ Salt Lake City to San Francisco
 San Francisco to Reno
 
 Total Miles = 3194
+Total price @40 gallons per mile, $2.311 per gallon = $184.53
 **********************
 Reno to Las Vegas
 Las Vegas to San Francisco
@@ -161,6 +179,7 @@ Salt Lake City to Seatlle
 Seatlle to Reno
 
 Total Miles = 3281
+Total price @40 gallons per mile, $2.311 per gallon = $189.56
 **********************
 Reno to Las Vegas
 Las Vegas to San Francisco
@@ -169,6 +188,7 @@ Seatlle to Salt Lake City
 Salt Lake City to Reno
 
 Total Miles = 3167
+Total price @40 gallons per mile, $2.311 per gallon = $182.97
 **********************
 Reno to Las Vegas
 Las Vegas to Salt Lake City
@@ -177,6 +197,7 @@ San Francisco to Seatlle
 Seatlle to Reno
 
 Total Miles = 3112
+Total price @40 gallons per mile, $2.311 per gallon = $179.8
 **********************
 Reno to Las Vegas
 Las Vegas to Salt Lake City
@@ -185,6 +206,7 @@ Seatlle to San Francisco
 San Francisco to Reno
 
 Total Miles = 2719
+Total price @40 gallons per mile, $2.311 per gallon = $157.09
 **********************
 Reno to Las Vegas
 Las Vegas to Seatlle
@@ -193,6 +215,7 @@ San Francisco to Salt Lake City
 Salt Lake City to Reno
 
 Total Miles = 3620
+Total price @40 gallons per mile, $2.311 per gallon = $209.15
 **********************
 Reno to Las Vegas
 Las Vegas to Seatlle
@@ -201,9 +224,10 @@ Salt Lake City to San Francisco
 San Francisco to Reno
 
 Total Miles = 3341
+Total price @40 gallons per mile, $2.311 per gallon = $193.03
 **********************
-
-The shortest path is 2719 miles{
+The shortest path is 2719 miles
+Total price @40 gallons per mile, $2.311 per gallon = $157.09{
 Reno to Las Vegas
 Las Vegas to Salt Lake City
 Salt Lake City to Seatlle
